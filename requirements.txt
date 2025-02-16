@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 Flask
 bcrypt
 flask_wtf
 SQLite3
+=======
+Flask
+bcrypt
+flask_wtf
+>>>>>>> Stashed changes
